@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">creditcarddetails</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+</resources>
